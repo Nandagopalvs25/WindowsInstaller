@@ -189,11 +189,9 @@ Library.
 =======================================
 Osdag development team (2014 - Present)
 =======================================
-Project Investigators - Osdag and FOSSEE
+Project Investigator
 
 Professor Siddhartha Ghosh
-Professor Kannan M Moudgalya
-Professor Prabhu Ramachandran
 
 ===============================
 Research Associates/Assistants
@@ -273,7 +271,19 @@ Mr.Vishal Birare
 Mr. Sushant Bammkanti
 Ms. Priya Hiregange
 
+===============================
+Osdag Expert Reviewers
 
+
+Professor S R Satish Kumar (IIT Madras, Chennai)
+Dr. Pradyumna M (Independent Consultant, Bengaluru)
+Mr. Yogesh D Pisal (Aker Powergas Pvt Ltd, Mumbai)
+Professor Meera Raghunandan (IIT Bombay, Mumbai)
+Mr. Somnath Mukherjee (MN Dastur & Co (P) Ltd, Kolkata)
+Mr. Manas M Ghosh (INSDAG, Kolkata)
+Mr. Pratip Bhattacharya (Tata Consulting Engineers Ltd, Kolkata)
+Dr. Harshvardhan Subbarao (Construma Consultancy Pvt Ltd, Mumbai)
+Professor V Kalyanaraman (IIT Madras, Chennai)
 
 
 
