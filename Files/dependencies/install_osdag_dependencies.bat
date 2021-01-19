@@ -62,7 +62,7 @@ call pip install .\PyLaTeX-1.3.1.tar.gz
 call pip install .\pdflatex-0.1.3.tar.gz
 call pip install .\keyring-21.2.1.tar.gz
 call pip install .\PyGithub-1.51.tar.gz
-call pip install .\pandas-1.0.5.tar
+call pip install .\pandas-1.0.5.tar.bz2
 call conda install .\pythonocc-core-0.18.2-py37h24bf2e0_281.tar.bz2
 call conda install .\oce-0.18.3-vc14_3.tar.bz2
 call conda install .\smesh-6.7.6-vc14_7.tar.bz2
