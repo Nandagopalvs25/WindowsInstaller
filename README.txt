@@ -5,7 +5,7 @@ The installer is made using [NSIS](https://nsis.sourceforge.io/Main_Page)
 
 
 System Requirements:
-====================
+
 
 a) Supported Windows Operating Systems:
 	Windows Vista
@@ -23,14 +23,14 @@ c) RAM and Storage Space:
 	
 
 Uninstalling Earlier Version of Osdag:
-========================================
+
 If you have a previous version of Osdag installed then it is mandatory to uninstall the same.
 
 1) Go to the location where Osdag was installed and run "Uninstall.exe".
 
 
 Installation steps:
-===================
+
 
 # If you have already installed the  previous version of Osdag in your system then Unistall it first and just run the new downloaded Osdag_windows_setup.exe.
 
@@ -56,7 +56,7 @@ Installation steps:
 
 
 Running Osdag:
-==============
+
 
 After the installation is complete, you may run Osdag by one of the following methods:
     i) Double-clicking on the Desktop shortcut or
