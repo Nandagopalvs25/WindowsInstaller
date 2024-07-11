@@ -4,35 +4,33 @@ This installer installs Osdag (along with Miniconda, MiKTeX and other dependecie
 The installer is made using [NSIS](https://nsis.sourceforge.io/Main_Page)
 
 
-System Requirements:
+# System Requirements:
 
+1. Supported Windows Operating Systems:
+	- Windows Vista
+	- Windows 7
+	- Windows 8
+	- Windows 8.1
+	- Windows 10
+        - Windows 11
 
-a) Supported Windows Operating Systems:
-	Windows Vista
-	Windows 7
-	Windows 8
-	Windows 8.1
-	Windows 10
+2. Supported Architecture(s):
+	 - 64-bit
 
-b) Supported Architecture(s):
-	64-bit
-
-c) RAM and Storage Space:
-	Minimum RAM: 2GB 
-	Minimum (recommended) Storage Space: 4GB
+3. RAM and Storage Space:
+	- Minimum RAM: 2GB 
+	- Minimum (recommended) Storage Space: 4GB
 	
 
-Uninstalling Earlier Version of Osdag:
+# Uninstalling Earlier Version of Osdag:
 
 If you have a previous version of Osdag installed then it is mandatory to uninstall the same.
 
 1) Go to the location where Osdag was installed and run "Uninstall.exe".
 
 
-Installation steps:
+# Installation steps:
 
-
-# If you have already installed the  previous version of Osdag in your system then Unistall it first and just run the new downloaded Osdag_windows_setup.exe.
 
   Run Osdag_windows_setup.exe
   
@@ -55,10 +53,10 @@ Installation steps:
 	Osdag will be successfully installed!
 
 
-Running Osdag:
+# Running Osdag:
 
 
 After the installation is complete, you may run Osdag by one of the following methods:
-    i) Double-clicking on the Desktop shortcut or
-    ii) Press the Windows key and search Osdag 
-    iii) Navigating to the installation-directory and double-clicking on the Osdag shortcut
+1. Double-clicking on the Desktop shortcut or
+2. Press the Windows key and search Osdag 
+3. Navigating to the installation-directory and double-clicking on the Osdag shortcut
