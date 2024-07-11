@@ -1,7 +1,7 @@
 # Introduction
 
 This installer installs Osdag (along with Miniconda, MiKTeX and other dependecies required to run Osdag).
-The installer is made using NSIS('https://nsis.sourceforge.io/Main_Page')
+The installer is made using [NSIS](https://nsis.sourceforge.io/Main_Page)
 
 
 System Requirements:
