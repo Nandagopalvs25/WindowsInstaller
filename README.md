@@ -60,3 +60,18 @@ After the installation is complete, you may run Osdag by one of the following me
 1. Double-clicking on the Desktop shortcut or
 2. Press the Windows key and search Osdag 
 3. Navigating to the installation-directory and double-clicking on the Osdag shortcut
+
+# Creating Windows Installer Exe
+
+1. Clone or download this repository.
+2. Download Miniconda3-py37_23.1.0-1 and copy it to the Files folder, name it as 'Miniconda3-latest-Windows-x86_64.exe'
+3. Download all required python dependencies (as listed in install_osdag_dependencies.bat file in dependencies folder) and copy them into the dependencies folder.
+4. Download and move miktex-x64.exe into Files/latex folder.
+5. Make exe of latex_package_installer.py and miktek_installer.py using [pyinstaller](https://pypi.org/project/pyinstaller/) and move the created .exe files (they will be created in dist folder) into latex folder.
+6. Copy the [Osdag folder](https://github.com/osdag-admin/Osdag) into the 'Files' folder
+7. Install NSIS Software and move the header files (environment files) to 'include' folder inside the Nsis installed Directory.
+8. Compile the osdag.nsi using NSIS, the installer will be created in the same location as the osdag.nsi file.
+
+# Fixes
+- Modified NSIS script to install miniconda and add it to the path correctly.
+- Fixed Pyqt5 installation Error. 
