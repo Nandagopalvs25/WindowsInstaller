@@ -20,6 +20,10 @@ The installer is made using [NSIS](https://nsis.sourceforge.io/Main_Page)
 3. RAM and Storage Space:
 	- Minimum RAM: 2GB 
 	- Minimum (recommended) Storage Space: 4GB
+
+ 4. Microsoft Build tools
+      - Install [MS Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) and add it to PATH.
+          
 	
 
 # Uninstalling Earlier Version of Osdag:
